@@ -12,4 +12,4 @@ Still a dog!
 How to compile:
 
 
-- Simply create a pycharm project and replace run "main.py"
+- Simply create a pycharm project and run "main.py"

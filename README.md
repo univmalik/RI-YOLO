@@ -1,7 +1,8 @@
 # RI-YOLO
 Rotationally Invariant Yolo bounding boxes! 
 
-This program will create additional datasets for yolo/SSD etc rotated 90, 180 and 270 degrees.
+This program will create additional datasets for yolo/SSD etc rotated 90, 180 and 270 degrees. It will create both the jpgs and
+text files for the bounding boxes. 
 
 To create even more datasets which take in additional orientations and spatial distortions, see Keras image data augmentation
 

@@ -1,3 +1,7 @@
+''' 
+Transforms bounding boxes associated text files to match with image rotation
+'''
+
 def finalString(intCList):
     outStr = ""
     outStr = outStr + str(intCList[0]) + " "
